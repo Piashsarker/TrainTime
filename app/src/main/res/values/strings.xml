@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Train Time</string>
+    <string name="dialog_title_licenses">License</string>
+    <string name="license_title_developer">Piash Sarker</string>
+    <string name="license_developer_email">sarkerpt@gmail.com</string>
+    <string name="license_developer_phone">+8801683193505</string>
+    <string name="license_title_developer1">Saiful Saif</string>
+    <string name="license_developer_email1">saifulsaif5854@gmail.com</string>
+    <string name="license_developer_phone1">+8801759998001</string>
+    <string name="share">Share</string>
+    <string name="rate_app">Rate This App</string>
+    <string name="bug">Submit Bug</string>
+    <string name="license">License</string>
+    <string name="banner_add_unit_id">213232</string>
+    <string name="message">text</string>
+</resources>
